@@ -1,2 +1,2 @@
 # Cis120Chess
-A Chess game made in Java
+A Chess game made in Java for my CIS 120 final project.
